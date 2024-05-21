@@ -42,3 +42,9 @@ GG2_den = conv(G2_den,GG3_den_sum)
 
 G2H2_num = conv(GG2_num,H2_den)
 G2H2_den_sum = [2 -4 -2 7 -4 1 0]
+
+G1G4_num = conv(G1_num,G4_num)
+G1G4_den = conv(G1_den,G4_den)
+
+
+
