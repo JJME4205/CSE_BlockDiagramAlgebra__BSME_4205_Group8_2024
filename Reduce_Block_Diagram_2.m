@@ -49,5 +49,6 @@ G1G4_den = conv(G1_den,G4_den)
 GG14_num = conv(G1G4_num,G2H2_num)
 GG14_den = conv(G1G4_den,G2H2_den_sum)
 
-
+TF_num = conv(H1_den,G2H2_num)
+TF_den_sum = [4 -8 -4 14 -8 -2 2 -6 4 0 0]
 
