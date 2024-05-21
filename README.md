@@ -5,7 +5,13 @@ This is for Laboratory 3 - Block Diagram Algebra
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/56c6a8ad-8ca6-4822-a7f4-f320463d1c80)
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/6626ded1-2c2b-4692-a012-87e97f19827e)
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/6d2e92b0-9f32-4202-9699-67b72a3a2105)
-3. Reduced_Block_Diagram_2_Andal,Janella Mae D.
+
+# Solution for Number 1
+![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/4e12636b-a47d-4db0-83c0-6a1ce54c736e)
+![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/5ce08b4d-697f-4dc5-8817-17b018670a29)
+![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/11e6b222-1b50-4e3b-ae3a-f48a5c521412)
+
+2. Reduced_Block_Diagram_2_Andal,Janella Mae D.
 ![Reduced_Block_Diagram_2](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159086810/bd26a1ac-e74f-45da-8331-1cc984f293ff)
 ![Reduced_Block_Diagram_2](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159086810/58b7d8eb-383b-4d1b-9ecf-d3fad4f47e81)
 
