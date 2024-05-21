@@ -34,6 +34,8 @@ H3_den = [1 -2];
 G4H3_num = conv(G4_num,H3_num)
 G4H3_den = conv(G4_den,H3_den)
 
+GG3_num = conv(G3_den,G4H3_den)
+GG3_den_sum = [2 -4 0 1 0]
 
 
 
