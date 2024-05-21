@@ -6,6 +6,12 @@ This is for Laboratory 3 - Block Diagram Algebra
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/6626ded1-2c2b-4692-a012-87e97f19827e)
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/6d2e92b0-9f32-4202-9699-67b72a3a2105)
 
+Reduced_Block_Diagram_1_Mandanas, Mark John A.
+![Reduced_Block_Diagram_1_step](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159036967/3ac907fb-8bb6-4388-b07f-67d8fec3f00e)
+![Reduced_Scope_1_step](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159036967/b7b6349b-b566-4234-97ba-5b5cb98a920c)
+![Reduced_Block_Diagram_1_sine_wave](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159036967/5c58f4b3-11ca-4d01-9533-dfc51f25b3a5)
+![Reduced_Scope_1_sine_wave](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159036967/a35d5b3d-1b45-46af-b9e1-11c2af4ad1b8)
+
 # Solution for Number 1
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/4e12636b-a47d-4db0-83c0-6a1ce54c736e)
 ![image](https://github.com/JJME4205/CSE_BlockDiagramAlgebra__BSME_4205_Group8_2024/assets/159037171/5ce08b4d-697f-4dc5-8817-17b018670a29)
