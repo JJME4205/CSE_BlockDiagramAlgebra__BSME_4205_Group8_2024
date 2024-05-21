@@ -26,3 +26,7 @@ H2_den = [1 -1];
 
 H3_num = [1];
 H3_den = [1 -2];
+
+
+%%Reduce Block Diagram
+% Part of Camille B. Atienza 20-02029
